@@ -8,7 +8,7 @@ I am a passionate IT student at Xavier University – Ateneo de Cagayan, driven 
 - 🎓 I'm currently pursuing my Bachelor's Degree in Information Technology at Xavier University.
 - 🌱 I’m currently learning Full Stack Web Development and API creation.
 - 💬 Ask me about: Python, HTML, CSS, JavaScript, or GitHub.
-- 📫 How to reach me: ethan_dosdos@my.xu.edu.ph
+- 📫 How to reach me: 20230027146@my.xu.edu.ph
 
 ## 💻 Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,python,git,github,vscode)](https://skillicons.dev)
