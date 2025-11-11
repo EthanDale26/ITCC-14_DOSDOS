@@ -2,7 +2,7 @@
 
 I am a passionate IT student at Xavier University – Ateneo de Cagayan, driven by curiosity for technology and innovation. I enjoy exploring the world of computer science, building projects, and continuously learning new tech skills.
 
-![ethandosdos's Stats](https://github-readme-stats.vercel.app/api?username=ethandosdos&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![ethandosdos's Stats](https://github-readme-stats.vercel.app/api?username=EthanDale26&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
 ## 🚀 About Me
 - 🎓 I'm currently pursuing my Bachelor's Degree in Information Technology at Xavier University.
