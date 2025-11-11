@@ -25,4 +25,7 @@ I am a passionate IT student at Xavier University – Ateneo de Cagayan, driven 
 ## ✨ Fun Fact
 - 🐥 I love tinolang duck and late-night coding with coffee!
 
+- 🧠 I’m the Wind Hashira of late-night debugging!
+
+
 Thanks for stopping by!
